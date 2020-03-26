@@ -5,7 +5,7 @@ import 'widget/beaty_textfield.dart';
 void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
-    title: 'futo app',
+    title: 'DEMOAPP',
     home: Home(),
   ));
 }
